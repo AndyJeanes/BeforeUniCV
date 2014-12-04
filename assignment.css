@@ -1,0 +1,36 @@
+body{
+padding:0;
+margin:0;
+font-family:Verdana,Lucida,Helvetica,Arial,sans-serif;
+}
+.pageElement{
+padding:1em;
+}
+.pageHeader{
+background:url(Images/header-gradient.png) repeat-x #afd4d3;
+height:5em;
+border-bottom:solid black 1px;
+}
+.pageHeaderLinks{
+text-align:center;
+margin-top:1em;
+font-style:italic;
+}
+.pageHeader h1{
+margin:0;
+text-align:center;
+color:#fff;
+}
+.pageHeaderLinks a{
+text-decoration: none;
+color:#fff;
+font-weight:bold;
+margin:0 1em 0 1em;
+}
+
+.pageBody h2{
+color:#85a6a5;
+}
+.pageBody h3{
+color:#85a6a5;
+}
